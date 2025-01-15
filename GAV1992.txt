@@ -1,4 +1,4 @@
 test2
 test3
 test4
-main test1
+Your friend added a line.
