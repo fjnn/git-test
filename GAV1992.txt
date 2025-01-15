@@ -1,5 +1,9 @@
 test2
 test3
 test4
+
 You added a line.
 You added another line.
+
+Your friend added a line.
+
