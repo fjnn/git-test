@@ -1,9 +1,13 @@
 test2
 test3
 test4
+<<<<<<< HEAD
 
 You added a line.
 You added another line.
 
 Your friend added a line.
 
+=======
+new-branch test1
+>>>>>>> b03e012 (new branch test)
