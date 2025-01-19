@@ -4,3 +4,4 @@ test4
 
 Friend added a line
 you added a line
+new line here
